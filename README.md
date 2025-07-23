@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Welcome to kazoo-gif 🎺🐸<br><br>Hey! I'm Alyssa (a.k.a. kazoo-gif) — a CS student, code gremlin, and artist trying to wrangle pixels, logic, and vibes into functional projects. I make stuff that talks to you, reacts to you, or explodes in a satisfying way.<br><br>## 💻 Languages & Tools<br><br>- 🧠 Functional Languages (Racket, Haskell... maybe)<br>- ☕ Java & Python<br>- 🕹️ HTML/CSS/JS for weird lil web things<br>- 🧩 TyranoBuilder (for VN stuff)<br><br>✨ Stay curious. Stay chaotic. Ship weird things.  
+# Welcome to kazoo-gif 🎺🐸<br><br>Hey! I'm Alyssa (a.k.a. kazoo-gif) — a CS student/artist trying to wrangle braincells into functional projects. I make stuff that speaks, reacts, or explodes.<br><br>✨ Stay chaotic. Crack ship.  
 
 
 ## 🌐 Socials:
